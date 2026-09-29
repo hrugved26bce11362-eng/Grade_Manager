@@ -46,7 +46,12 @@ Enter marks separated by spaces: 85 90 92
 Added Alice with marks [85, 90, 92].
 
 ## Project Structure
+
+```text
 student-grade-manager/
+│
+├── main.py          # Application entry point and logic
+└── README.md        # Project documentation
 │
 ├── main.py          # Application entry point and logic
 └── README.md        # Project documentation
